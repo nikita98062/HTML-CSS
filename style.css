@@ -1,0 +1,14 @@
+.bby {
+    background-color: gray;
+  }
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  .btn {
+    background-color: aqua;
+  }
+  
+  .btn:hover {
+    cursor: pointer;
+  }
