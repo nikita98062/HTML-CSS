@@ -1,4 +1,10 @@
 |-- .gitattributes
 |-- download.jpeg
+|-- first project
+    |-- assets
+        |-- logo.jpg
+    |-- index.html
+    |-- style.css
+|-- hh.JPEG.jpg
 |-- index.html
 |-- style.css

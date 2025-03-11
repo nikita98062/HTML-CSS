@@ -1,0 +1,93 @@
+
+body {
+    background-color: #F6F5F0;
+    margin-top: 4%;
+    font-family: Arial, sans-serif; 
+  }
+  
+  .topbar {
+    display: flex;
+    gap: 15%;
+    padding: 0 20px; 
+  }
+  
+  .left {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px; 
+  }
+  
+  .header {
+    margin-left: 10px;
+  }
+  
+  .right {
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    gap: 4px;
+    flex-wrap: wrap; 
+  }
+  
+  .right div {
+    text-align: center;
+    margin: 0;
+    padding-top: 12px;
+    min-width: 60px; 
+  }
+  
+  .agencies {
+    font-weight: 800;
+  }
+  
+  .btn {
+    background-color: green;
+    height: 35px;
+    width: 120px;
+    text-align: center;
+    padding-top: 12px;
+    border-radius: 15px;
+    color: white;
+    cursor: pointer; 
+  }
+  
+
+  body .parent{
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .one{
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+  }
+  .two{
+    width: 45%;
+  }
+  .two img{
+    width: 80%;
+    
+  }
+  .btn1{
+    width: 125px;
+    height: 40px;
+    border-radius: 15px;
+    background-color: green;
+    color: aliceblue;
+
+  }
+  h1{
+    color: green;
+    font-size: 60px;
+    align-content: start;
+  }
+
