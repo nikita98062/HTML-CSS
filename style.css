@@ -5,10 +5,39 @@
     color: white;
     text-align: center;
   }
-  .btn {
+  #btn {
     background-color: aqua;
   }
   
-  .btn:hover {
+  #btn:hover {
     cursor: pointer;
+  }
+  #one{
+    background-color: royalblue;
+    border-color: black;
+    border: 2px solid;
+    width: 25%;
+  }
+  #two{
+    background-color: brown;
+    border-color: black;
+    border: 2px solid;
+    width: 25%;
+  }
+  #three{
+    background-color: bisque;
+    border-color: black;
+    border: 2px solid;
+    width: 25%;
+  }
+  .flex-container {
+    margin: 10px;
+    padding: 5px;
+    background-color: chartreuse;
+    border: black solid;
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content:space-between ;
+    align-items: flex-end;
+
   }
